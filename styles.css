@@ -1,0 +1,36 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+  }
+  #map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .map-overlay {
+    position: absolute;
+    left: 0;
+    padding: 10px;
+  }
+  
+  #run-bus {
+   background-color: rgb(255, 255, 255);
+   padding: .5em;
+   -moz-border-radius: 5px;
+   -webkit-border-radius: 5px;
+   border-radius: 6px;
+   color: #de9961;
+   font-size: 2em;
+   text-decoration: none;
+   border: none;
+  }
+
+  #run-bus:hover {
+    background-color: #de9961;
+    color: white;
+   box-shadow: 0px 0px 1px #777;
+  }
