@@ -1,5 +1,5 @@
 # Real-Time-Bus-Tracker
-<p align="center"><img width="400" alt="A dark, night mode Google Map has several red bus markers across the MBTA Route 1 bus line." src="images/Real-Time-Bus-Tracker"> </p>
+<p align="center"><img width="400" alt="A dark, night mode Google Map has several red bus markers across the MBTA Route 1 bus line." src="images/Real-Time-Bus-Tracker.png"> </p>
 
 # About:
 
