@@ -13,9 +13,7 @@ This code uses asynchronous functions, the "await" operator, and promises.
 
 # How to Run
 
-If you download all the necessary files in one folder, the "index.html" should run in your browser.
-
-To customize, you can sign up for your own Google Maps API. That will allow you to create your own Map ID, which you can style through their platform. 
+You will need to sign up for Google Maps API to get your own key. You will input this into the index.html file. Additionally, you can create a style for your map through Google and append it to a Map ID, which you can input that into the mapanimation.js file.  
 
 # Roadmap of Future Improvemenets
 
