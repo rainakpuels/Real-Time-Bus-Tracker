@@ -1,0 +1,12 @@
+/* Map height defined to the size of the div element that contains it */
+ #map {
+  height: 100%;
+}
+
+/* Makes content fill the window */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
