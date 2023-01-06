@@ -1,7 +1,3 @@
-//Hide API Key
-var mykey = config.MY_KEY;
-var secretkey = config.SECRET_KEY;
-
 // Load map 
 function init(){
 	var myOptions = {
